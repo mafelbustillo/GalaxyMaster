@@ -1,2 +1,3 @@
 # GalaxyMaster
-An action-adventure game 
+
+An action-adventure game.
